@@ -1,17 +1,22 @@
-<h1 align="center">🍕 DS Delivery</h1>
+<h1 align="center">😷 Monitoramento COVID-19</h1>
 <p align="center">
-  <strong>App desenvolvido durante a 2ª edição do evento Semana DevSuperior</strong>
-  <br>
-  <span>O Projeto consiste em um sistema de registro e entrega de pedidos. Foi utilizado Java com Spring Boot, e implantação no Heroku</span>
+  <strong>Dados atualizados do Brasil e do Mundo do coronavírus 2019 (COVID-19)</strong>
 </p>
 
 
 
+## API's: 📊
+
+- [Global Coronavirus information](https://coronavirus-19-api.herokuapp.com/)
+- [Covid19 Brazil](https://covid19-brazil-api-docs.now.sh/)
 
 ### Site 💻
 
-- [DS Delivery](https://sds2-ds-deliver.netlify.app/)
+- [Monitoramento COVID-19](https://monitoramento-v2.netlify.app/)
 
-## Biblioteca: 📙
-- REACT
 
+## Linguagens: 🚀
+- HTML
+- CSS
+- JavaScript
+- Consumo de API
