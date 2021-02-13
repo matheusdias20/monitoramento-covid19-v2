@@ -194,6 +194,14 @@ iframe{
         height: 600px;
     }    
 
+    .vaccination{
+        margin-left: 4.5%;
+        margin-right: 4.5%;
+        border: none;
+        width: 89%;
+        height: 600px;
+    }
+
     #footer-area{
         margin-top: -10%;
     }
