@@ -3,6 +3,9 @@
   <strong>Dados atualizados do Brasil e do Mundo do coronavírus 2019 (COVID-19)</strong>
 </p>
 
+<p align="center">
+  <img src="img/home.jpeg" alt="">
+</p>
 
 
 ## API's: 📊
